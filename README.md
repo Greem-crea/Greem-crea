@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Greem-crea
-- 👀 I’m interested in making games
+- 👀 I’m interested in game dev
 - 🌱 I’m currently learning C#, JS, HTML5, CSS, LUA, GDscript, Godot game engine
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me greem.crea@gmail.com
