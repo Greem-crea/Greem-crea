@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sin
+- 👋 Hi, I’m @Greem-crea as Sin
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning C++, C#,, SDL, OpenGL, LUA
 - 💞️ I’m not looking to collaborate
