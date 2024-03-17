@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Greem-crea as Sin
 - 👀 I’m interested in game dev
-- 🌱 I’m currently learning C++
+- 🌱 I’m still learning C++
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me greem.creation@gmail.com
 
